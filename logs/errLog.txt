@@ -1,0 +1,29 @@
+20240603	15:00:03 	6809b3ea-6e17-4c4a-acfa-c5e063cc2ddd 	Error: Not allowed by CORS
+20240603	15:00:51 	46b50de0-9e54-47a5-9f27-634d8d0ba173 	Error: Not allowed by CORS
+20240603	15:01:24 	375710c1-cb30-4514-b50b-f94f08bf3965 	Error: Not allowed by CORS
+20240603	15:01:26 	2971f238-776f-4fa7-bacc-20162543affd 	Error: Not allowed by CORS
+20240603	15:01:48 	753d1a83-3f9f-455c-baa8-f63a95792c41 	Error: Not allowed by CORS
+20240604	10:47:32 	bd16c567-3dae-4353-a013-42ee7d10921e 	TypeError: Cannot read properties of undefined (reading 'authorization')
+20240604	10:48:05 	4a76a4e1-4303-4974-847b-28d8092e08a2 	TypeError: Cannot read properties of undefined (reading 'authorization')
+20240604	10:48:22 	afbc8459-fae2-44d6-bdaa-7d9ea7e49aa4 	TypeError: Cannot read properties of undefined (reading 'authorization')
+20240604	10:48:56 	e1ee9682-40c7-4e8f-a635-572bdb686717 	TypeError: Cannot read properties of undefined (reading 'authorization')
+20240604	10:51:03 	b369714a-b00b-4edd-81d0-329f5b002aac 	TypeError: Cannot read properties of undefined (reading 'authorization')
+20240604	10:55:46 	0b1dfd39-05cb-4687-9191-691c2814b861 	SyntaxError: Unexpected non-whitespace character after JSON at position 35
+20240604	10:58:47 	a159284b-2bda-4d40-a347-55871ddc41fc 	TypeError: Cannot read properties of undefined (reading 'authorization')
+20240604	11:00:48 	bbf23349-2e7d-4509-a18d-26b3b2b3740d 	TypeError: Cannot read properties of undefined (reading 'authorization')
+20240604	11:01:06 	e83c92e1-3617-4b57-b2f9-ae8b493214b9 	TypeError: Cannot read properties of undefined (reading 'authorization')
+20240604	11:02:11 	a6ccad9a-bd60-4bcb-b3a7-779928210ac8 	TypeError: Cannot read properties of undefined (reading 'authorization')
+20240604	11:02:25 	72fd7767-5ff7-4072-8b19-74fe40a0aa22 	TypeError: Cannot read properties of undefined (reading 'authorization')
+20240604	11:23:19 	49dcd878-c35f-474b-9fdb-4252f2d7af41 	TypeError: Cannot read properties of undefined (reading 'authorization')
+20240604	11:52:21 	a5c33f8d-ab10-474b-a599-77baddd732cf 	TypeError: req.headers is not a function
+20240604	11:53:49 	6fde9fa7-b052-4592-b5db-d9983fc7043d 	TypeError: req.headers is not a function
+20240604	11:54:12 	27d9621b-0a9d-4720-a83d-ca89d050c1f0 	TypeError: req.headers is not a function
+20240604	11:54:18 	b3b19337-7ea3-4fb4-b8b3-0fcea5960c80 	TypeError: req.headers is not a function
+20240604	11:54:23 	07128878-1d6d-475d-8057-55effc0e872a 	TypeError: req.headers is not a function
+20240604	11:54:34 	53c9a619-7acc-47f9-87ab-ee011402d833 	TypeError: req.headers is not a function
+20240604	13:29:12 	cd6e796e-ab91-4a10-a80e-22a1b25f4174 	ReferenceError: whiteList is not defined
+20240604	13:30:06 	df082e8c-6f78-4a9e-a4dc-2fe786f4718a 	ReferenceError: whiteList is not defined
+20240604	13:38:09 	002c9929-b437-411c-b527-f7a083ccdb37 	ReferenceError: whiteList is not defined
+20240604	13:38:11 	f0174f73-c204-4b51-bf6f-8443f80bc99f 	ReferenceError: whiteList is not defined
+20240604	13:38:12 	c059f169-8001-4a26-b9f2-96a421c9695a 	ReferenceError: whiteList is not defined
+20240604	13:38:13 	35058cb1-2653-4d41-8cfb-cef729aab473 	ReferenceError: whiteList is not defined
